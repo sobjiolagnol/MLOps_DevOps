@@ -1,0 +1,5 @@
+
+*.bin
+*.bin
+"venv/"         # S'il n'y est pas encore
+"venv/"        
